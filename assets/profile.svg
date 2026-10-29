@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 761" width="900" height="761" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"><title>Hemkumar N</title><rect width="900" height="761" fill="#F2EDE2"/><rect width="900" height="4" fill="#1B1A17"/><line x1="580" y1="30" x2="580" y2="741" stroke="#D2C9B6"/>
+<text x="28" y="38" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">01</text>
+<text x="50" y="38" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">ABOUT</text>
+<line x1="125" y1="34.5" x2="558" y2="34.5" stroke="#D2C9B6" stroke-width="1"/>
+<text x="28" y="59" font-size="12" fill="#1B1A17" xml:space="preserve"><tspan>Final-year</tspan><tspan font-weight="700"> Computer</tspan><tspan font-weight="700"> Science</tspan><tspan font-weight="700"> &amp;</tspan><tspan font-weight="700"> Business</tspan><tspan font-weight="700"> Systems</tspan><tspan> undergraduate</tspan><tspan> with</tspan><tspan> a</tspan><tspan font-weight="700"> Java-first</tspan><tspan> skill</tspan><tspan> set</tspan><tspan> and</tspan></text>
+<text x="28" y="76.5" font-size="12" fill="#1B1A17" xml:space="preserve"><tspan>strong</tspan><tspan> fundamentals</tspan><tspan> in</tspan><tspan font-weight="700"> OOP,</tspan><tspan font-weight="700"> DSA,</tspan><tspan font-weight="700"> DBMS</tspan><tspan font-weight="700"> and</tspan><tspan font-weight="700"> Operating</tspan><tspan font-weight="700"> Systems</tspan><tspan>.</tspan><tspan> I</tspan><tspan> build</tspan><tspan> full-stack</tspan><tspan> Python</tspan><tspan> and</tspan></text>
+<text x="28" y="94.0" font-size="12" fill="#1B1A17" xml:space="preserve"><tspan>React</tspan><tspan> systems,</tspan><tspan> including</tspan><tspan> an</tspan><tspan> AI-powered</tspan><tspan> equity</tspan><tspan> research</tspan><tspan> platform</tspan><tspan> using</tspan><tspan font-weight="700"> Generative</tspan><tspan font-weight="700"> AI,</tspan><tspan font-weight="700"> RAG,</tspan></text>
+<text x="28" y="111.5" font-size="12" fill="#1B1A17" xml:space="preserve"><tspan font-weight="700">LangChain</tspan><tspan font-weight="700"> and</tspan><tspan font-weight="700"> prompt</tspan><tspan font-weight="700"> engineering</tspan><tspan>.</tspan><tspan> I've</tspan><tspan> shipped</tspan><tspan> platforms</tspan><tspan> used</tspan><tspan> by</tspan><tspan font-weight="700"> 800+</tspan><tspan font-weight="700"> real</tspan><tspan font-weight="700"> users</tspan><tspan> and</tspan></text>
+<text x="28" y="129.0" font-size="12" fill="#1B1A17" xml:space="preserve"><tspan>presented</tspan><tspan> a</tspan><tspan font-weight="700"> peer-reviewed</tspan><tspan font-weight="700"> paper</tspan><tspan font-weight="700"> at</tspan><tspan font-weight="700"> ICONIC</tspan><tspan font-weight="700"> 2025</tspan><tspan>.</tspan></text>
+<text x="28.0" y="176.5" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" fill="#1B1A17">800+</text>
+<text x="28.0" y="189.5" font-size="9.5" fill="#6E685C">Real users across live</text>
+<text x="28.0" y="201.0" font-size="9.5" fill="#6E685C">deployments</text>
+<line x1="152.5" y1="152.5" x2="152.5" y2="192.5" stroke="#D2C9B6"/>
+<text x="160.5" y="176.5" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" fill="#1B1A17">300+</text>
+<text x="160.5" y="189.5" font-size="9.5" fill="#6E685C">Participants at PEC</text>
+<text x="160.5" y="201.0" font-size="9.5" fill="#6E685C">Hacks 4.0</text>
+<line x1="285.0" y1="152.5" x2="285.0" y2="192.5" stroke="#D2C9B6"/>
+<text x="293.0" y="176.5" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" fill="#1B1A17">6+</text>
+<text x="293.0" y="189.5" font-size="9.5" fill="#6E685C">Responsive pages built</text>
+<text x="293.0" y="201.0" font-size="9.5" fill="#6E685C">from Figma mockups</text>
+<line x1="417.5" y1="152.5" x2="417.5" y2="192.5" stroke="#D2C9B6"/>
+<text x="425.5" y="176.5" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" fill="#1B1A17">~40%</text>
+<text x="425.5" y="189.5" font-size="9.5" fill="#6E685C">Smaller stylesheet via</text>
+<text x="425.5" y="201.0" font-size="9.5" fill="#6E685C">Tailwind refactor</text>
+<text x="28" y="228.5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">02</text>
+<text x="50" y="228.5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">PROJECTS</text>
+<line x1="149" y1="225.0" x2="558" y2="225.0" stroke="#D2C9B6" stroke-width="1"/>
+<text x="28" y="259.5" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#1B1A17">Equity Research Platform</text>
+<text x="558" y="258.5" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.3" fill="#B5451B">AI · FULL-STACK</text>
+<text x="28" y="273.5" font-size="10.5" fill="#6E685C">Stock Research Agent  —  React · FastAPI · Python · LangChain · RAG</text>
+<rect x="28" y="284.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="289.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Generates</tspan><tspan> analyst-style</tspan><tspan> stock</tspan><tspan> reports</tspan><tspan> from</tspan><tspan> live</tspan><tspan> market</tspan><tspan> data,</tspan><tspan> SEC</tspan><tspan> filings</tspan><tspan> and</tspan><tspan> financial</tspan><tspan> news.</tspan></text>
+<rect x="28" y="301.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="306.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>RAG</tspan><tspan> pipeline</tspan><tspan> with</tspan><tspan> LangChain</tspan><tspan> grounds</tspan><tspan> LLM</tspan><tspan> output</tspan><tspan> in</tspan><tspan> retrieved</tspan><tspan> filings</tspan><tspan> and</tspan><tspan> news.</tspan></text>
+<rect x="28" y="318.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="323.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Structured</tspan><tspan> prompt</tspan><tspan> templates</tspan><tspan> for</tspan><tspan> consistent,</tspan><tspan> well-formatted</tspan><tspan> reports.</tspan></text>
+<rect x="28" y="335.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="340.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Interactive</tspan><tspan> React</tspan><tspan> dashboard</tspan><tspan> backed</tspan><tspan> by</tspan><tspan> a</tspan><tspan> FastAPI</tspan><tspan> service.</tspan></text>
+<text x="28" y="375.5" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#1B1A17">Hostel Management System</text>
+<text x="558" y="374.5" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.3" fill="#B5451B">CORE JAVA · SQL</text>
+<text x="28" y="389.5" font-size="10.5" fill="#6E685C">Student &amp; hostel records  —  Java · OOP · SQL · Collections · SOLID</text>
+<rect x="28" y="400.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="405.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Full</tspan><tspan> CRUD</tspan><tspan> for</tspan><tspan> student</tspan><tspan> and</tspan><tspan> hostel</tspan><tspan> records</tspan><tspan> with</tspan><tspan> role-based</tspan><tspan> access</tspan><tspan> and</tspan><tspan> academic</tspan><tspan> analytics.</tspan></text>
+<rect x="28" y="417.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="422.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>OOP</tspan><tspan> principles</tspan><tspan> with</tspan><tspan> Collections</tspan><tspan> (ArrayList,</tspan><tspan> HashMap)</tspan><tspan> for</tspan><tspan> fast</tspan><tspan> lookup.</tspan></text>
+<rect x="28" y="434.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="439.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>SQL</tspan><tspan> JOINs,</tspan><tspan> GROUP</tspan><tspan> BY</tspan><tspan> and</tspan><tspan> indexing</tspan><tspan> for</tspan><tspan> query</tspan><tspan> optimization.</tspan></text>
+<rect x="28" y="451.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="456.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Custom</tspan><tspan> exceptions,</tspan><tspan> validation</tspan><tspan> and</tspan><tspan> a</tspan><tspan> layered</tspan><tspan> SOLID</tspan><tspan> architecture.</tspan></text>
+<text x="28" y="483.5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.3" fill="#B5451B">IN DEVELOPMENT</text>
+<text x="126" y="483.5" font-size="11" fill="#1B1A17"><tspan font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="13">Zeniq</tspan><tspan fill="#6E685C">  —  a new app in active development. Details and stack coming soon.</tspan></text>
+<text x="28" y="511.5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">03</text>
+<text x="50" y="511.5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">EXPERIENCE</text>
+<line x1="163" y1="508.0" x2="558" y2="508.0" stroke="#D2C9B6" stroke-width="1"/>
+<text x="28" y="542.5" font-size="12.5" font-weight="700" fill="#1B1A17">Web Development Intern</text>
+<text x="182.3203125" y="542.5" font-size="11" fill="#6E685C">Codec Technologies · Chennai</text>
+<text x="558" y="541.5" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" fill="#B5451B">HTML · CSS · JS · REACT.JS</text>
+<rect x="28" y="554.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="559.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Built</tspan><tspan> 6+</tspan><tspan> responsive</tspan><tspan> pages</tspan><tspan> from</tspan><tspan> Figma</tspan><tspan> mockups</tspan><tspan> with</tspan><tspan> pixel-accurate</tspan><tspan> layout</tspan><tspan> across</tspan><tspan> Chrome,</tspan><tspan> Firefox</tspan><tspan> and</tspan></text>
+<text x="39" y="574.0" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Safari.</tspan></text>
+<rect x="28" y="585.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="591.0" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Implemented</tspan><tspan> interactive</tspan><tspan> JavaScript</tspan><tspan> UI</tspan><tspan> components,</tspan><tspan> improving</tspan><tspan> event-delegation</tspan><tspan> patterns</tspan><tspan> and</tspan><tspan> cutting</tspan></text>
+<text x="39" y="605.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>interaction</tspan><tspan> latency.</tspan></text>
+<rect x="28" y="617.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="622.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Refactored</tspan><tspan> legacy</tspan><tspan> CSS</tspan><tspan> into</tspan><tspan> Tailwind</tspan><tspan> utilities,</tspan><tspan> reducing</tspan><tspan> stylesheet</tspan><tspan> size</tspan><tspan> by</tspan><tspan> ~40%.</tspan></text>
+<text x="28" y="656.5" font-size="12.5" font-weight="700" fill="#1B1A17">Quality Assurance Intern</text>
+<text x="183.4984375" y="656.5" font-size="11" fill="#6E685C">Foxconn · Internal Quality Checking</text>
+<text x="558" y="655.5" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="1.2" fill="#B5451B">QA · TESTING</text>
+<rect x="28" y="668.3" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="39" y="673.5" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Gained</tspan><tspan> hands-on</tspan><tspan> exposure</tspan><tspan> to</tspan><tspan> QA</tspan><tspan> processes</tspan><tspan> and</tspan><tspan> structured</tspan><tspan> testing</tspan><tspan> workflows</tspan><tspan> on</tspan><tspan> the</tspan><tspan> production</tspan><tspan> floor.</tspan></text>
+<text x="602" y="38" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">04</text>
+<text x="624" y="38" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">TECH STACK</text>
+<line x1="736" y1="34.5" x2="872" y2="34.5" stroke="#D2C9B6" stroke-width="1"/>
+<text x="602" y="59" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">LANGUAGES</text>
+<text x="680" y="59" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Java,</tspan><tspan> C++,</tspan><tspan> C,</tspan><tspan> Python,</tspan><tspan> JavaScript,</tspan><tspan> SQL</tspan></text>
+<text x="602" y="77" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">FRONTEND</text>
+<text x="680" y="77" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>React,</tspan><tspan> HTML5,</tspan><tspan> CSS3,</tspan><tspan> Tailwind</tspan><tspan> CSS,</tspan></text>
+<text x="680" y="91" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Figma</tspan></text>
+<text x="602" y="109" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">BACKEND &amp; AI</text>
+<text x="680" y="109" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>FastAPI,</tspan><tspan> Flask,</tspan><tspan> Django,</tspan><tspan> LangChain,</tspan></text>
+<text x="680" y="123" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>REST</tspan><tspan> APIs</tspan></text>
+<text x="602" y="141" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">DATABASES</text>
+<text x="680" y="141" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>MySQL,</tspan><tspan> SQLite,</tspan><tspan> MongoDB,</tspan><tspan> SQL</tspan></text>
+<text x="680" y="155" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Server</tspan></text>
+<text x="602" y="173" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">TOOLS</text>
+<text x="680" y="173" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Git,</tspan><tspan> GitHub,</tspan><tspan> Postman,</tspan><tspan> Swagger,</tspan><tspan> Linux,</tspan></text>
+<text x="680" y="187" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>VS</tspan><tspan> Code</tspan></text>
+<text x="602" y="205" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="0.8" fill="#6E685C">ALSO</text>
+<text x="680" y="205" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Generative</tspan><tspan> AI,</tspan><tspan> RAG,</tspan><tspan> OWASP</tspan><tspan> Top</tspan><tspan> 10,</tspan></text>
+<text x="680" y="219" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>OCI,</tspan><tspan> COBOL</tspan><tspan> &amp;</tspan><tspan> JCL</tspan></text>
+<text x="602" y="243" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">05</text>
+<text x="624" y="243" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">EDUCATION</text>
+<line x1="729" y1="239.5" x2="872" y2="239.5" stroke="#D2C9B6" stroke-width="1"/>
+<text x="602" y="271" font-size="12" font-weight="700" fill="#1B1A17">B.Tech · CSBS</text>
+<text x="872" y="271" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#B5451B">2023–2027 · CGPA 7.71/10</text>
+<text x="602" y="284" font-size="10.5" fill="#6E685C">Panimalar Engineering College</text>
+<text x="602" y="304" font-size="12" font-weight="700" fill="#1B1A17">HSC · Science</text>
+<text x="872" y="304" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#B5451B">62.83%</text>
+<text x="602" y="317" font-size="10.5" fill="#6E685C">Sethu Bhaskara Matric. HSS</text>
+<text x="602" y="337" font-size="12" font-weight="700" fill="#1B1A17">SSLC</text>
+<text x="872" y="337" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#B5451B">66.2%</text>
+<text x="602" y="350" font-size="10.5" fill="#6E685C">Maharishi Vidya Mandir, Avadi</text>
+<text x="602" y="370" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">06</text>
+<text x="624" y="370" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">CERTIFICATIONS</text>
+<line x1="763" y1="366.5" x2="872" y2="366.5" stroke="#D2C9B6" stroke-width="1"/>
+<rect x="602" y="386.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="613" y="392" font-size="11" fill="#1B1A17">Meta Full-Stack Web Developer</text>
+<text x="872" y="392" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" fill="#6E685C">Coursera</text>
+<rect x="602" y="401.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="613" y="407" font-size="11" fill="#1B1A17">OCI AI Foundations Associate</text>
+<text x="872" y="407" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" fill="#6E685C">Oracle · 2025</text>
+<rect x="602" y="416.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="613" y="422" font-size="11" fill="#1B1A17">GitHub Foundations</text>
+<text x="872" y="422" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" fill="#6E685C">GitHub · 2024</text>
+<rect x="602" y="431.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="613" y="437" font-size="11" fill="#1B1A17">Python Programming (40 Hrs)</text>
+<text x="872" y="437" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" fill="#6E685C">Microsoft</text>
+<rect x="602" y="446.8" width="3.6" height="3.6" fill="#B5451B"/>
+<text x="613" y="452" font-size="11" fill="#1B1A17">Ethical Hacking 101</text>
+<text x="872" y="452" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" fill="#6E685C">Simplilearn</text>
+<text x="602" y="479" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">07</text>
+<text x="624" y="479" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">ACHIEVEMENTS</text>
+<line x1="756" y1="475.5" x2="872" y2="475.5" stroke="#D2C9B6" stroke-width="1"/>
+<text x="602" y="507" font-size="11.5" font-weight="700" fill="#1B1A17">Research Publication</text>
+<text x="602" y="520" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>Authored</tspan><tspan> and</tspan><tspan> presented</tspan><tspan> a</tspan><tspan> peer-reviewed</tspan><tspan> paper</tspan><tspan> at</tspan><tspan> the</tspan></text>
+<text x="602" y="533.5" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>ICONIC</tspan><tspan> 2025</tspan><tspan> international</tspan><tspan> conference.</tspan></text>
+<text x="602" y="558.0" font-size="11.5" font-weight="700" fill="#1B1A17">Community Impact</text>
+<text x="602" y="571.0" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>Shipped</tspan><tspan> production</tspan><tspan> platforms</tspan><tspan> used</tspan><tspan> by</tspan><tspan> PEC</tspan><tspan> Hacks</tspan><tspan> 4.0</tspan></text>
+<text x="602" y="584.5" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>(300+</tspan><tspan> participants)</tspan><tspan> and</tspan><tspan> Quicko's</tspan><tspan> early</tspan><tspan> user</tspan><tspan> base.</tspan></text>
+<text x="602" y="609.0" font-size="11.5" font-weight="700" fill="#1B1A17">Core Team, PEC Hacks 4.0 (2024)</text>
+<text x="602" y="622.0" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>Coordinated</tspan><tspan> logistics,</tspan><tspan> website</tspan><tspan> delivery</tspan><tspan> and</tspan><tspan> sponsorship</tspan></text>
+<text x="602" y="635.5" font-size="10.5" fill="#6E685C" xml:space="preserve"><tspan>communication</tspan><tspan> for</tspan><tspan> a</tspan><tspan> 300+</tspan><tspan> participant</tspan><tspan> hackathon.</tspan></text>
+<text x="602" y="663.0" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#B5451B">08</text>
+<text x="624" y="663.0" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.6" fill="#1B1A17" font-weight="700">CONNECT</text>
+<line x1="717" y1="659.5" x2="872" y2="659.5" stroke="#D2C9B6" stroke-width="1"/>
+<text x="602" y="685.0" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>Open</tspan><tspan> to</tspan><tspan> Java,</tspan><tspan> full-stack</tspan><tspan> and</tspan><tspan> AI</tspan><tspan> opportunities.</tspan><tspan> Say</tspan></text>
+<text x="602" y="699.0" font-size="11" fill="#1B1A17" xml:space="preserve"><tspan>hello.</tspan></text>
+<text x="602" y="719.0" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="10" fill="#B5451B">hem07042006@gmail.com</text>
+<text x="602" y="734.0" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="10" fill="#6E685C">hemkumar.dev</text>
+</svg>
